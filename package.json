@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sec-edgar-api": "^1.0.5"
+  },
+  "name": "edgar_allen_poe",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
