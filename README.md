@@ -3,13 +3,13 @@
 To install dependencies:
 
 ```bash
-bun install
+yarn install
 ```
 
 To run:
 
 ```bash
-bun run index.ts
+node index.ts [STOCK SYMBOL HERE]
 ```
 
 This project was created using `bun init` in bun v1.2.21. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
